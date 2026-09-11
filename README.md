@@ -1,19 +1,9 @@
 # Binary_Search
 This laboratory activity is about using recursion in Binary Search. The program is based on the Binary Search code provided by our instructor and was modified to accept input from the user. The program displays a simple recursive trace showing the values of low, high, mid, and the middle value during each recursive call. This helps show how the search range becomes smaller until the target is found or there are no more elements to search. If the target is found, the program displays its array index. If it is not found, the program displays -1.
 
-
-
-
-
-
 #Programming Languange
 
 Java (JDK 21)
-
-
-
-
-
 
 
 
